@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>reload.png</file>
+    <file>ajax-loader.gif</file>
+</qresource>
+</RCC>
